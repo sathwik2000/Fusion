@@ -1,0 +1,8 @@
+import java.io.*;
+plublic class Remember implements Serializable{
+	String userName;
+	String[] toRemember =new int[];
+	public Remember(){
+		
+	}
+}

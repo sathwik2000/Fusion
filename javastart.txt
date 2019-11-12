@@ -1,0 +1,13 @@
+1:Google search just say google
+2:url search just say url
+3:calculator just say calculator
+4:mail some one just say mail
+5:music just say play some music
+6:fusion just say fusion
+7:time just say time
+8:help just say help
+9:shutdown just say shutdown
+10:restart just say restart
+11:hibernate just say hibernet
+12:say somthing to remember for fusion just say remember
+13:get all thing that you asked fusion to remember just say mailreminders

@@ -1,0 +1,6 @@
+enter subject of mail
+Enter all the content that you want to send 
+and then enter fusion done 
+and then press enter 
+after that enter mail id to whome to send 
+then it will be sent
